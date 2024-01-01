@@ -1,0 +1,11 @@
+--add
+w = x + y;
+
+--sub
+w1 = x1-y1;
+
+--mul
+w2 = x * y;
+
+--div
+w3 = x / y;
