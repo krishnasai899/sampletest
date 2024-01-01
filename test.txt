@@ -9,3 +9,5 @@ w2 = x * y;
 
 --div
 w3 = x / y;
+
+--per
